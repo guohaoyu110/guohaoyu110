@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - M.S. in Computer Science @USC
-- Intern @ 222 (Startup backend by Y Combinator)
+- Intern @ 222 (Startup backed by Y Combinator)
 - Ex Intern @CNCF @Tecorigin @NUS
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=guohaoyu110&column=9)](https://github.com/guohaoyu110)
