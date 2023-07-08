@@ -3,7 +3,7 @@
 - M.S. in Computer Science @USC
 - Intern @ 222 (Startup backed by Y Combinator)
 - Ex Intern @CNCF @Tecorigin @NUS
-- [🌟 OSS Insight about me](https://ossinsight.io/analyze/guohaoyu110).
+- [🌟 Open Source Software Insight about me](https://ossinsight.io/analyze/guohaoyu110).
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=guohaoyu110&column=9)](https://github.com/guohaoyu110)
 
