@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Haoyu Guo
 
 - M.S. in Computer Science @USC
 - Intern @ 222 (Startup backed by Y Combinator)
