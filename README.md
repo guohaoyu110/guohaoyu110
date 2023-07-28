@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Haoyu Guo
 
 - M.S. in Computer Science @USC
-- Intern @ 222 (Startup backed by Y Combinator)
-- Ex Intern @Tecorigin @NUS
+- Ex Intern @222(Y Combinator backed Startup)@Tecorigin @NUS
 - Open Source Contributor @CNCF
 - [🌟 Open Source Software Insight about me](https://ossinsight.io/analyze/guohaoyu110).
   
