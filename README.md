@@ -2,7 +2,7 @@
 
 - M.S. in Computer Science @USC
 - Ex Intern @222(Y Combinator backed Startup)@Tecorigin(AI Chip Startup)@NUS
-- Open Source Contributor @CNCF
+- Open Source Contributor @CNCF Kyverno
 - [🌟 Open Source Software Insight about me](https://ossinsight.io/analyze/guohaoyu110).
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=guohaoyu110&column=9)](https://github.com/guohaoyu110)
